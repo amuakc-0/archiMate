@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Översikt Registrera resultat"
     id="id-c320069b77e44b149468268adfad313c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -113,7 +113,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5b9de3c77ae2472cad911347dab3e5ae">
+      id="id-5b9de3c77ae2472cad911347dab3e5ae"
+      targetConnections="id-1101a3a6d1e94ce0bf151c073cc6a76a">
     <bounds
         x="384"
         y="240"
@@ -221,7 +222,17 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-98c57dc1f7044eb8b64f7e1f5690cba9">
+      id="id-98c57dc1f7044eb8b64f7e1f5690cba9"
+      targetConnections="id-d3a8217906f8425ab539ef79ab073141">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1101a3a6d1e94ce0bf151c073cc6a76a"
+        source="id-98c57dc1f7044eb8b64f7e1f5690cba9"
+        target="id-5b9de3c77ae2472cad911347dab3e5ae">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-9d95717681144a139ec1030a7f2f6c04.xml#id-9d95717681144a139ec1030a7f2f6c04"/>
+    </sourceConnections>
     <bounds
         x="359"
         y="348"
@@ -234,8 +245,17 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1159ec4ec99d4d198cc3bdb4a45c4044">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d3a8217906f8425ab539ef79ab073141"
+        source="id-1159ec4ec99d4d198cc3bdb4a45c4044"
+        target="id-98c57dc1f7044eb8b64f7e1f5690cba9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-d8da3ed94b534c46ae4188301e1bc32c.xml#id-d8da3ed94b534c46ae4188301e1bc32c"/>
+    </sourceConnections>
     <bounds
-        x="384"
+        x="359"
         y="438"
         width="120"
         height="55"/>
