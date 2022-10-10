@@ -1,0 +1,16 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kandidattjänster"
+    id="id-cf6039e3ba924ab0a65421f93fc85a5e">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-60f48d7108044d1b81b3e64a7136e80b"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="48"
+        width="457"
+        height="649"/>
+  </children>
+</archimate:ArchimateDiagramModel>
