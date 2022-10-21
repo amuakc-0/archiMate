@@ -1,4 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ITSadminService"
-    id="id-8786abb48dd74cf3af0cc3da6287a2ab"/>
+    name="getExaminator"
+    id="id-d71eee53f2ac4bb88f768735caa461ad"/>
