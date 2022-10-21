@@ -665,7 +665,7 @@
     </sourceConnections>
     <bounds
         x="612"
-        y="312"
+        y="300"
         width="901"
         height="265"/>
     <children
@@ -1613,8 +1613,8 @@
           href="AssignmentRelationship_id-7d1dbff6bb5c41d0a9cd939693c38c59.xml#id-7d1dbff6bb5c41d0a9cd939693c38c59"/>
     </sourceConnections>
     <bounds
-        x="121"
-        y="-204"
+        x="107"
+        y="-216"
         width="120"
         height="55"/>
     <archimateElement
@@ -2226,8 +2226,8 @@
       textAlignment="1"
       content="ATT GÖRA:&#xD;&#xA;&#xD;&#xA;Koppla ihop business-nivå med SOA-nivå. Ändra business-aktiviteterna så att den stämmer med vårt börläge (dvs. visar automatiseringen)&#xD;&#xA;">
     <bounds
-        x="972"
-        y="-36"
+        x="1121"
+        y="-33"
         width="313"
         height="194"/>
   </children>
