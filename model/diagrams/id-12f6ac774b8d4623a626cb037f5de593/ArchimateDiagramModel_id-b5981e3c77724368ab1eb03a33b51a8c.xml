@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="8 Business_SOA_Börläge"
+    name="Business_SOA_Börläge"
     id="id-b5981e3c77724368ab1eb03a33b51a8c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

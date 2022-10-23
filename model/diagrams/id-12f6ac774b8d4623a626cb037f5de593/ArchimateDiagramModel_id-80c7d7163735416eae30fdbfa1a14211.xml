@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7 DesignWS_iteration2"
+    name="7 Design SOA"
     id="id-80c7d7163735416eae30fdbfa1a14211">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1415,17 +1415,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-8786abb48dd74cf3af0cc3da6287a2ab.xml#id-8786abb48dd74cf3af0cc3da6287a2ab"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d01d0c0523a042858037cf5c9c9cfc88"
-      textAlignment="1"
-      content="Det är den här serving-relationen som typ visar automatiseringen av studieresultatsrapporteringen&#xD;&#xA;">
-    <bounds
-        x="416"
-        y="24"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
