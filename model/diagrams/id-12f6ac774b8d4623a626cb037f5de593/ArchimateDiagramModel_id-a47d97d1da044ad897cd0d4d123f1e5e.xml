@@ -1264,15 +1264,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-c2633d4801ad4ea18b7379b2cbb643a6.xml#id-c2633d4801ad4ea18b7379b2cbb643a6"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-8c69c5aaa8b549438664d16d6059442f"
-      textAlignment="1"
-      content="&#xD;&#xA;Intersection:&#xD;&#xA;setBetyg och setSlutResultat. Det är två metoder som sannolikt har ungefär samma kod. Eftersom slutresultat är resultatet av en förbestämd formel (t.ex. 2 av 3 uppgifter VG = slutresultat VG) skulle slutresultatet kunna generaras automatiskt när alla delbetyg är inrapporterade och attesteringen fungera som en kontroll av uträkningen.&#xD;&#xA;&#xD;&#xA;(intersection/unification) setKommentar (CanvasRattning) och setKommentarInlamning (CanvasInlamning). Genom att slå ihop CanvasRattning och CanvasInlamning till ett interface (CanvasExamination) kan vi ha endast en funktion för kommentarer. ">
-    <bounds
-        x="1152"
-        y="180"
-        width="277"
-        height="445"/>
-  </children>
 </archimate:ArchimateDiagramModel>

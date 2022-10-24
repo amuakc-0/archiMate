@@ -417,7 +417,7 @@
       id="id-8eaa8346f95141b0b1cec471060e7e15">
     <bounds
         x="552"
-        y="156"
+        y="36"
         width="517"
         height="229"/>
     <children
@@ -739,7 +739,7 @@
       id="id-da994389b61e40b4a38e5223e166ca0a">
     <bounds
         x="552"
-        y="396"
+        y="312"
         width="421"
         height="157"/>
     <children
@@ -1314,16 +1314,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-c2633d4801ad4ea18b7379b2cbb643a6.xml#id-c2633d4801ad4ea18b7379b2cbb643a6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-54ccb5bdfb2947619d9b74f909392c35"
-      textAlignment="1"
-      content="Metoder som ansågs höra ihop funktionellt har samlats under interfaces som hör till respektive tjänst (Ladok, Kronox, Inspera, Aldoc, Canvas)&#xD;&#xA;.&#xD;&#xA;">
-    <bounds
-        x="576"
-        y="36"
-        width="381"
-        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>

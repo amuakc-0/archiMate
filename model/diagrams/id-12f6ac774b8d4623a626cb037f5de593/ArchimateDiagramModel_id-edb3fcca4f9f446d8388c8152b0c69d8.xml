@@ -4,17 +4,6 @@
     name="6 Decomp/subset/subtractWS_Iteration2"
     id="id-edb3fcca4f9f446d8388c8152b0c69d8">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-59f62729e224445295322b0c153b53e1"
-      textAlignment="1"
-      content="&#xD;&#xA;&#xD;&#xA;Subtract:&#xD;&#xA;Tagit bort alla update-metoder. Motivering: överflödig, endast set och get behövs.&#xD;&#xA;&#xD;&#xA;Interfacet SkapaUnderlag i LadokService tas bort eftersom det innehöll manuella metoder som var kvar efter den första iterationen, t.ex. skickaUnderlag (se UnificationWS_Iteration1). Motivering: om processen automatiseras så att betyget rapporteras in till Ladok direkt vid rättning i Canvas eller Inspera så fyller inte längre underlaget någon funktion.&#xD;&#xA;">
-    <bounds
-        x="1032"
-        y="231"
-        width="408"
-        height="382"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d11dee7728384668a096ceb4d5ec9a76">
     <bounds

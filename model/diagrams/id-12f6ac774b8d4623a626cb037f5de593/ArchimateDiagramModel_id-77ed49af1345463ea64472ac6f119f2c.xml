@@ -2663,15 +2663,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-c625d58b9cea49eb931fd589c2450de4.xml#id-c625d58b9cea49eb931fd589c2450de4"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-ffb5a87f13b64a538e2e24d8568b2c09"
-      textAlignment="1"
-      content=" Lagt in samtliga CRUD från KandidattjänsterWS - nuläge under respektive applikationsservice (Canvas, Ladok, Kronox, Inspera, Aldoc.)&#xD;&#xA;&#xD;&#xA;Lagt in RattningService under respektive applikationsservice (Canvas, Inspera). Eftersom &quot;aktiviteten&quot; att rätta är annorlunda för Canvas respektive Inspera motiverar det att det är en applikationsspecifik service.&#xD;&#xA;&#xD;&#xA;Lagt in RegistreraOmdomeService och RegistreraKommentarService i Canvas (eftersom det sker i Canvas)&#xD;&#xA;&#xD;&#xA;Lagt in SkapaCanvasUnderlagService i CanvasService och SkapaUnderlagService i LadokService. Eftersom det finns funktioner för att skapa underlag i både Canvas och Ladok &#xD;&#xA;&#xD;&#xA;Lagt in SkickaUnderlagService i LadokService. När Ladok-administratören har skapat underlaget skickas det via mejl till examinatorn.">
-    <bounds
-        x="808"
-        y="198"
-        width="361"
-        height="721"/>
-  </children>
 </archimate:ArchimateDiagramModel>

@@ -915,17 +915,6 @@
         href="ApplicationService_id-f865d7658bd84d9192a6a26262e105a9.xml#id-f865d7658bd84d9192a6a26262e105a9"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3c8880e38ab44cadb29ed8bed7669fa2"
-      textAlignment="1"
-      content="ResultatServiceWS tar emot data från Inspera och Canvas och skickar det i det format som Ladoks API kan ta emot.&#xD;&#xA;">
-    <bounds
-        x="960"
-        y="119"
-        width="229"
-        height="181"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c1e29b7fdd6449b1b100e8b7fcdb2490"
       targetConnections="id-dfc6dc6d265c403a939b65985bb2a811 id-3196483335e7499c95ffa35ecd3d9656">
